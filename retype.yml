@@ -1,0 +1,14 @@
+output: .retype
+url: http://localhost:5000
+branding:
+  title: Optiflow
+  label: PC Guide
+links:
+  - text: "Yosha!"
+    icon: static/dragon-ball-icon.png
+    link: https://www.youtube.com/watch?v=hh6LN8uwytE&t=3s
+navigation:
+  - uid: Getting-Started
+    icon: ':icon-note:'  
+footer:
+  copyright: "<span style='font-family: cursive; font-size: 18px;'>Maximize the Minimal</span>"
