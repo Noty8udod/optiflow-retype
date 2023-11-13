@@ -215,7 +215,7 @@ Please note that if you're using a SSD, defragmentation is not necessary and is 
 7. **Restart Your System**:
     - After updating your drivers, restart your computer to ensure all changes take effect.
     ---
-    
+    ( we will go over specific driver gpu setting for both Nivida and radeon and how to preform a NV clean install ) 
 
 
 
